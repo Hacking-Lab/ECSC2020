@@ -1,5 +1,11 @@
-# ECSC2020
-Welcome to the project page of the ECSC final in Vienna 2020. This page will give you more information about the ECSC final 2020 in Vienna, the ctf playing modes, rules and restrictions, organization and responsibilities, players handbook, schedule and more. This page is geared towards the project team and CTF players from the participating country. 
+# ECSC 2020 in Vienna
+Welcome to the project page of the ECSC final in Vienna 2020. This page will give you more information about the ECSC final 2020 in Vienna, the ctf playing modes, rules and restrictions, organization and responsibilities, players handbook, schedule and more. This page is geared towards the project team and CTF players from the participating countries.
+
+## Logo
+Draft **ECSC 2020** logo
+
+![LOGO](./img/ecsc2020-vienna-400.png)
+
 
 ## Infrastructure
 * Description of the CTF [infrastructure](./Infrastructure.md) 
@@ -15,6 +21,11 @@ Welcome to the project page of the ECSC final in Vienna 2020. This page will giv
 
 ## Responsibilities
 * Details about the [responsibilities](./Responsibilities.md), roles and duties
+
+## Countries
+* Details about the [participating](./Countries.md) countries
+
+
 
 
 
