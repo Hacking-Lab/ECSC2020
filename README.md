@@ -19,7 +19,7 @@ Draft **ECSC 2020** logo
 * Players handbook, allowed and forbidden [rules](./Rules.md) for the team players
 
 ## Schedule
-* Draft [schedule](./schedule.md) (Arrival, Prep, Day1, Day2, Award Ceremony, Departure)
+* Draft [schedule](./Schedule.md) (Arrival, Prep, Day1, Day2, Award Ceremony, Departure)
 
 ## Responsibilities
 * Details about the [responsibilities](./Responsibilities.md), roles and duties
