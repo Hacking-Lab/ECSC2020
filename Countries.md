@@ -36,6 +36,6 @@
 | 2015 | Switzerland | Lucerne     | Austria     |
 | 2016 | Germany     | Düsseldorf  | Spain       |
 | 2017 | Spain       | Malaga      | Spain       |
-| 2018 | UK          | London      | Spain       |
+| 2018 | UK          | London      | Germany     |
 | 2019 | Romania     | Bucharest   | ????        |
 | 2020 | Austria     | Vienna      | ????        |
