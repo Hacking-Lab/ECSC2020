@@ -13,6 +13,9 @@ Draft **ECSC 2020** logo
 ## Challenges
 * Requirements for the [challenges](./Challenges.md)
 
+## Guest Team Canada
+* Cyber Security Austria invites [Team Canada](./Canada.md) to participate in the ECSC final 2020 in Vienna
+
 ## Rules
 * Players handbook, allowed and forbidden [rules](./Rules.md) for the team players
 
