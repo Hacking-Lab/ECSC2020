@@ -12,7 +12,7 @@
 | Greece         |      |      |      |      | x    | x    | x    | x    | ?    |
 | Ireland        |      |      |      |      | x    | x    |      | x    | ?    |
 | Liechtenstein  |      |      |      |      | x    | x    | x    | x    | ?    |
-| Estonia        |      |      |      |      |      |      | x    | x    | ?    |
+| Estonia        |      |      |      |      | x    | x    | x    | x    | ?    |
 | France         |      |      |      |      |      |      | x    | x    | ?    |
 | Poland         |      |      |      |      |      |      | x    | x    | ?    |
 | Italy          |      |      |      |      |      |      | x    | x    | ?    |
@@ -31,14 +31,16 @@
 
 
 ## FINAL COUNTRY CITY WINNER
-| Year | Country     | City        | Winner      |
-|------|-------------|-------------|-------------|
-| 2012 | Austria     | Pamhangen   | Austria     |
-| 2013 | Austria     | Linz        | Switzerland |
-| 2014 | Austria     | Fürstenfeld | Austria     |
-| 2015 | Switzerland | Lucerne     | Austria     |
-| 2016 | Germany     | Düsseldorf  | Spain       |
-| 2017 | Spain       | Malaga      | Spain       |
-| 2018 | UK          | London      | Germany     |
-| 2019 | Romania     | Bucharest   | ????        |
-| 2020 | Austria     | Vienna      | ????        |
+| Year | Country        | City        | Winner      |
+|------|----------------|-------------|-------------|
+| 2012 | Austria        | Pamhangen   | Austria     |
+| 2013 | Austria        | Linz        | Switzerland |
+| 2014 | Austria        | Fürstenfeld | Austria     |
+| 2015 | Switzerland    | Lucerne     | Austria     |
+| 2016 | Germany        | Düsseldorf  | Spain       |
+| 2017 | Spain          | Malaga      | Spain       |
+| 2018 | UK             | London      | Germany     |
+| 2019 | Romania        | Bucharest   | ????        |
+| 2020 | Austria        | Vienna      |             |
+| 2020 | Czech Republik | N/A         |             |
+| 2020 | Norway         | N/A         |             |
