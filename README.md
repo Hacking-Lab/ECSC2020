@@ -4,8 +4,7 @@ Welcome to the project page of the ECSC final in Vienna 2020. This page will giv
 ## Logo
 Draft **ECSC 2020** logo
 
-![LOGO](./img/ecsc2020-vienna-400.png)
-
+![LOGO](./img/ecsc2020-vienna-400.png) ![LOGO](./img/ecsc2020-vienna-j-480.png)
 
 ## Infrastructure
 * Description of the CTF [infrastructure](./Infrastructure.md) 
