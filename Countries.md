@@ -42,5 +42,5 @@
 | 2018 | UK             | London      | Germany     |
 | 2019 | Romania        | Bucharest   | ????        |
 | 2020 | Austria        | Vienna      |             |
-| 2020 | Czech Republik | N/A         |             |
+| 2020 | Czech Republic | N/A         |             |
 | 2020 | Norway         | N/A         |             |
