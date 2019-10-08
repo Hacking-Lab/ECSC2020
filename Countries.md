@@ -1,29 +1,32 @@
 # History of the ECSC competition
 **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- 
 ## ECSC since 2012
-|               | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
-|---------------|------|------|------|------|------|------|------|------|------|
-| Austria       | x    | x    | x    | x    | x    | x    | x    | x    | x    |
-| Switzerland   |      | x    | x    | x    | x    | x    | x    | x    | x    |
-| Germany       |      |      | x    | x    | x    | x    | x    | x    | x    |
-| UK            |      |      |      | x    | x    | x    | x    | x    | x    |
-| Spain         |      |      |      | x    | x    | x    | x    | x    | x    |
-| Romania       |      |      |      | x    | x    | x    | x    | x    | x    |
-| Greece        |      |      |      |      | x    | x    | x    | x    | x    |
-| Ireland       |      |      |      |      | x    | x    | x    | x    | x    |
-| Liechtenstein |      |      |      |      | x    | x    | x    | x    | x    |
-| Estonia       |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
-|               |      |      |      |      |      |      |      |      |      |
+|                | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+|----------------|------|------|------|------|------|------|------|------|------|
+| Austria        | x    | x    | x    | x    | x    | x    | x    | x    | x    |
+| Switzerland    |      | x    | x    | x    | x    | x    | x    | x    | ?    |
+| Germany        |      |      | x    | x    | x    | x    | x    | x    | ?    |
+| UK             |      |      |      | x    | x    | x    | x    | x    | ?    |
+| Spain          |      |      |      | x    | x    | x    | x    | x    | ?    |
+| Romania        |      |      |      | x    | x    | x    | x    | x    | ?    |
+| Greece         |      |      |      |      | x    | x    | x    | x    | ?    |
+| Ireland        |      |      |      |      | x    | x    |      | x    | ?    |
+| Liechtenstein  |      |      |      |      | x    | x    | x    | x    | ?    |
+| Estonia        |      |      |      |      |      |      | x    | x    | ?    |
+| France         |      |      |      |      |      |      | x    | x    | ?    |
+| Poland         |      |      |      |      |      |      | x    | x    | ?    |
+| Italy          |      |      |      |      |      |      | x    | x    | ?    |
+| Belgium        |      |      |      |      |      |      | x    | x    | ?    |
+| Norway         |      |      |      |      |      |      | x    | x    | ?    |
+| Denmark        |      |      |      |      |      |      | x    | x    | ?    |
+| Czech Republic |      |      |      |      |      |      | x    | x    | ?    |
+| Cyprus         |      |      |      |      |      |      | x    | x    | ?    |
+| Luxembourg     |      |      |      |      |      |      |      | x    | ?    |
+| Netherlands    |      |      |      |      |      |      |      | x    | ?    |
+| Portugal       |      |      |      |      |      |      |      | x    | ?    |
+| Canada         |      |      |      |      |      |      |      |      | ?    |
+|                |      |      |      |      |      |      |      |      |      |
+|                |      |      |      |      |      |      |      |      |      |
 
 
 
