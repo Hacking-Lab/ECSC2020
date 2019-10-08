@@ -3,30 +3,30 @@
 ## ECSC since 2012
 |                | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 |----------------|------|------|------|------|------|------|------|------|------|
-| Austria        | x    | x    | x    | x    | x    | x    | x    | x    | x    |
-| Switzerland    |      | x    | x    | x    | x    | x    | x    | x    | ?    |
-| Germany        |      |      | x    | x    | x    | x    | x    | x    | ?    |
-| UK             |      |      |      | x    | x    | x    | x    | x    | ?    |
-| Spain          |      |      |      | x    | x    | x    | x    | x    | ?    |
-| Romania        |      |      |      | x    | x    | x    | x    | x    | ?    |
-| Greece         |      |      |      |      | x    | x    | x    | x    | ?    |
-| Ireland        |      |      |      |      | x    | x    |      | x    | ?    |
-| Liechtenstein  |      |      |      |      | x    | x    | x    | x    | ?    |
-| Estonia        |      |      |      |      | x    | x    | x    | x    | ?    |
-| France         |      |      |      |      |      |      | x    | x    | ?    |
-| Poland         |      |      |      |      |      |      | x    | x    | ?    |
-| Italy          |      |      |      |      |      |      | x    | x    | ?    |
-| Belgium        |      |      |      |      |      |      | x    | x    | ?    |
-| Norway         |      |      |      |      |      |      | x    | x    | ?    |
-| Denmark        |      |      |      |      |      |      | x    | x    | ?    |
-| Czech Republic |      |      |      |      |      |      | x    | x    | ?    |
-| Cyprus         |      |      |      |      |      |      | x    | x    | ?    |
-| Luxembourg     |      |      |      |      |      |      |      | x    | ?    |
+| Austria        | 1    | 2    | 1    | 1    | x    | x    | 10   | x    | x    |
+| Switzerland    |      | 1    | 3    | 3    | x    | x    | 14   | x    | ?    |
+| Germany        |      |      | 2    | 2    | 3    | x    | 1    | x    | ?    |
+| UK             |      |      |      | 6    | x    | 3    | 3    | x    | ?    |
+| Spain          |      |      |      | 4    | 1    | 1    | 11   | x    | ?    |
+| Romania        |      |      |      | 5    | 2    | 2    | 9    | x    | ?    |
+| Greece         |      |      |      |      | x    | x    | 5    | x    | ?    |
+| Ireland        |      |      |      |      | x    | x    | --   | x    | ?    |
+| Liechtenstein  |      |      |      |      | x    | x    | 16   | x    | ?    |
+| Estonia        |      |      |      |      | x    | 5    | 7    | x    | ?    |
+| France         |      |      |      |      |      |      | 2    | x    | ?    |
+| Poland         |      |      |      |      |      |      | 4    | x    | ?    |
+| Italy          |      |      |      |      |      | 3    | 6    | x    | ?    |
+| Belgium        |      |      |      |      |      |      | 8    | x    | ?    |
+| Norway         |      |      |      |      |      | 4    | 12   | x    | ?    |
+| Denmark        |      |      |      |      |      | x    | 13   | x    | ?    |
+| Czech Republic |      |      |      |      |      |      | 15   | x    | ?    |
+| Cyprus         |      |      |      |      |      | 5    | 17   | x    | ?    |
+| Luxembourg     |      |      |      |      |      |      | --   | x    | ?    |
 | Netherlands    |      |      |      |      |      |      |      | x    | ?    |
 | Portugal       |      |      |      |      |      |      |      | x    | ?    |
 | Canada         |      |      |      |      |      |      |      |      | ?    |
 |                |      |      |      |      |      |      |      |      |      |
-|                |      |      |      |      |      |      |      |      |      |
+| Total          | 1    | 2    | 3    | 6    | 10   | 15   | 17   | 21   |      |
 
 
 
