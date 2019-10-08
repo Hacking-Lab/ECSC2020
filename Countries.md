@@ -1,6 +1,8 @@
 # History of the ECSC competition
 **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- 
 ## ECSC Ranking since 2012
+unpublished rankings are marked with 'x'
+
 |                | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 |----------------|------|------|------|------|------|------|------|------|------|
 | Austria        | 1    | 2    | 1    | 1    | x    | x    | 10   | x    | ?    |
@@ -10,7 +12,7 @@
 | Spain          |      |      |      | 4    | 1    | 1    | 11   | x    | ?    |
 | Romania        |      |      |      | 5    | 2    | 2    | 9    | x    | ?    |
 | Greece         |      |      |      |      | x    | x    | 5    | x    | ?    |
-| Ireland        |      |      |      |      | x    | x    | --   | x    | ?    |
+| Ireland        |      |      |      |      | x    | x    | dnf  | x    | ?    |
 | Liechtenstein  |      |      |      |      | x    | x    | 16   | x    | ?    |
 | Estonia        |      |      |      |      | x    | 5    | 7    | x    | ?    |
 | Italy          |      |      |      |      |      | 3    | 6    | x    | ?    |
@@ -21,7 +23,7 @@
 | France         |      |      |      |      |      |      | 2    | x    | ?    |
 | Poland         |      |      |      |      |      |      | 4    | x    | ?    |
 | Belgium        |      |      |      |      |      |      | 8    | x    | ?    |
-| Luxembourg     |      |      |      |      |      |      | --   | x    | ?    |
+| Luxembourg     |      |      |      |      |      |      | dnf  | x    | ?    |
 | Netherlands    |      |      |      |      |      |      |      | x    | ?    |
 | Portugal       |      |      |      |      |      |      |      | x    | ?    |
 | Canada         |      |      |      |      |      |      |      |      | ?    |
