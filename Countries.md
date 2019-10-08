@@ -1,9 +1,9 @@
 # History of the ECSC competition
 **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- **DRAFT** -- **INCOMPLETE** -- 
-## ECSC since 2012
+## ECSC Ranking since 2012
 |                | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
 |----------------|------|------|------|------|------|------|------|------|------|
-| Austria        | 1    | 2    | 1    | 1    | x    | x    | 10   | x    | x    |
+| Austria        | 1    | 2    | 1    | 1    | x    | x    | 10   | x    | ?    |
 | Switzerland    |      | 1    | 3    | 3    | x    | x    | 14   | x    | ?    |
 | Germany        |      |      | 2    | 2    | 3    | x    | 1    | x    | ?    |
 | UK             |      |      |      | 6    | x    | 3    | 3    | x    | ?    |
@@ -13,20 +13,20 @@
 | Ireland        |      |      |      |      | x    | x    | --   | x    | ?    |
 | Liechtenstein  |      |      |      |      | x    | x    | 16   | x    | ?    |
 | Estonia        |      |      |      |      | x    | 5    | 7    | x    | ?    |
-| France         |      |      |      |      |      |      | 2    | x    | ?    |
-| Poland         |      |      |      |      |      |      | 4    | x    | ?    |
 | Italy          |      |      |      |      |      | 3    | 6    | x    | ?    |
-| Belgium        |      |      |      |      |      |      | 8    | x    | ?    |
 | Norway         |      |      |      |      |      | 4    | 12   | x    | ?    |
 | Denmark        |      |      |      |      |      | x    | 13   | x    | ?    |
-| Czech Republic |      |      |      |      |      |      | 15   | x    | ?    |
+| Czech Republic |      |      |      |      |      | x    | 15   | x    | ?    |
 | Cyprus         |      |      |      |      |      | 5    | 17   | x    | ?    |
+| France         |      |      |      |      |      |      | 2    | x    | ?    |
+| Poland         |      |      |      |      |      |      | 4    | x    | ?    |
+| Belgium        |      |      |      |      |      |      | 8    | x    | ?    |
 | Luxembourg     |      |      |      |      |      |      | --   | x    | ?    |
 | Netherlands    |      |      |      |      |      |      |      | x    | ?    |
 | Portugal       |      |      |      |      |      |      |      | x    | ?    |
 | Canada         |      |      |      |      |      |      |      |      | ?    |
 |                |      |      |      |      |      |      |      |      |      |
-| Total          | 1    | 2    | 3    | 6    | 10   | 15   | 17   | 21   |      |
+| Total          | 1    | 2    | 3    | 6    | 10   | 15   | 17   | 21   | ?    |
 
 
 
