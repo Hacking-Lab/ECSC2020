@@ -24,8 +24,8 @@ Draft **ECSC 2020** logo
 ## Responsibilities
 * Details about the [responsibilities](./Responsibilities.md), roles and duties
 
-## Countries
-* Details about the [participating](./Countries.md) countries
+## Past Competitions
+* [History](./History.md) of previous CTF competitions 
 
 
 
