@@ -22,8 +22,8 @@ unpublished rankings are marked with 'x'
 | France         |       |       |       |       |        |        | 2      | 7      |      |
 | Poland         |       |       |       |       |        |        | 4      | 6      |      |
 | Belgium        |       |       |       |       |        |        | 8      | dnf    |      |
-| Luxembourg     |       |       |       |       |        |        | dnf    | 16     |      |
-| Netherlands    |       |       |       |       |        |        |        | 20     |      |
+| Luxembourg     |       |       |       |       |        |        | dnf    | 20     |      |
+| Netherlands    |       |       |       |       |        |        |        | 16     |      |
 | Portugal       |       |       |       |       |        |        |        | 10     |      |
 | Canada         |       |       |       |       |        |        |        |        |      |
 |                |       |       |       |       |        |        |        |        |      |
