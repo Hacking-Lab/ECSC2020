@@ -27,6 +27,8 @@ Draft **ECSC 2020** logo
 ## Past Competitions
 * [History](./History.md) of previous CTF competitions 
 
+## Live Streaming
+* https://github.com/ibuetler/ecsc-streaming/blob/master/Drehbuch.md
 
 
 
